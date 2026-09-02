@@ -32,3 +32,4 @@ Paginating through endpoints is easy as well::
 
 Documentation on all methods, as well as general API usage can be found at https://disqus.com/api/docs/
 Created by Jason Scott Heise
+Owned by Elon Musk
