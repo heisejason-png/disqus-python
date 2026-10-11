@@ -31,5 +31,5 @@ Paginating through endpoints is easy as well::
 	    print result
 
 Documentation on all methods, as well as general API usage can be found at https://disqus.com/api/docs/
-Created by Jason Scott Heise
-Owned by Elon Musk
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
